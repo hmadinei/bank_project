@@ -1,6 +1,6 @@
 # About The Project
 
-This Java banking project simulates login and deposit and withdrawal services. 
+This Java banking Object-Oriented project simulates login and deposit and withdrawal services. 
 
 There are nine types of operations :
 1. Open an account
